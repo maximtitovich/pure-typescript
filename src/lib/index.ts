@@ -1,5 +1,5 @@
-import "../style/style.scss";
+import '../style/style.scss';
 
-import Init from "./init";
+import Init from './init';
 
 Init();
