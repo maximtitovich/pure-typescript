@@ -4,6 +4,7 @@
   "description": "pure-js project",
   "private": true,
   "license": "MIT",
+  "author": "Maxim Titovich",
   "scripts": {
     "start": "webpack serve",
     "build-package": "webpack",
