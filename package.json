@@ -1,7 +1,7 @@
 {
-  "name": "pure-js",
+  "name": "pure-ts",
   "version": "1.0.0",
-  "description": "pure-js project",
+  "description": "pure-ts project",
   "private": true,
   "license": "MIT",
   "author": "Maxim Titovich",
